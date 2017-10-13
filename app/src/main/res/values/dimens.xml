@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="base_margin">16dp</dimen>
+    <dimen name="top_margin">24dp</dimen>
+    <dimen name="fab_margin">@dimen/base_margin</dimen>
+</resources>
